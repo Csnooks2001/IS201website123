@@ -1,0 +1,15 @@
+Ul{
+    font-size: 15x;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    background-color: whitesmoke;
+
+}
+body{
+    background-color: rgb(228, 246, 228);
+    border: 5 px solid black;
+    margin: 5px;
+    
+}
+header{
+    text-align: center;
+}
